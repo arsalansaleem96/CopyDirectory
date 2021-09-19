@@ -76,5 +76,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CopyDirectory.Copier\CopyDirectory.Copier.csproj">
+      <Project>{364ba59c-5da1-4930-a750-b07bc6742601}</Project>
+      <Name>CopyDirectory.Copier</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
