@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyDirectory.WindowsForms", "CopyDirectory.WindowsForms\CopyDirectory.WindowsForms.csproj", "{1DB55F3A-86C3-432E-A448-CD3D24F3A284}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyDirectory.Forms", "CopyDirectory.WindowsForms\CopyDirectory.Forms.csproj", "{1DB55F3A-86C3-432E-A448-CD3D24F3A284}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyDirectory.Copier", "CopyDirectory.Copier\CopyDirectory.Copier.csproj", "{364BA59C-5DA1-4930-A750-B07BC6742601}"
 EndProject

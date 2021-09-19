@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace CopyDirectory.Copier
 {
-    public class Class1
+    public enum ResponseMessage
     {
+        SAME = 0,
+        SUCCESS = 1,
+        ERROR = 2
     }
 }
